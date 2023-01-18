@@ -26,6 +26,7 @@
         <h2>My Larevel Project For Github Practice.</h2>
         <p>All credits belongs to Falatozz.hu</p>
         <p>Kiegészítés</p>
+        <p>Fontos kiegészítések kerültek most terítékre.</p>
     </div>
     </body>
 </html>
