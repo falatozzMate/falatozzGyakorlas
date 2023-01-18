@@ -6,4 +6,6 @@ Commit #3 - Cherry pick demo part 3.
 
 Commit #4 - Cherry pick demo part 4.
 
+Commit #5 - Succesful git learning process.
+
 No more commits to afford.

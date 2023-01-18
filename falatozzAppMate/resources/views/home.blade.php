@@ -31,11 +31,9 @@
 
         ?>
     <div>
-        <h1>Parkway Drive - From The Heart of the Darkness</h1>
         <h2>My Larevel Project For Github Practice.</h2>
         <p>All credits belongs to Falatozz.hu</p>
         <p>Kiegészítés</p>
-        <p>Fontos kiegészítések kerültek most terítékre.</p>
     </div>
     </body>
 </html>
