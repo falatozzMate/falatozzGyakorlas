@@ -34,7 +34,7 @@
         <h2>My Larevel Project For Github Practice.</h2>
         <p>Credits belongs to Falatozz.hu</p>
         <p>Kiegészítés</p>
-        <p>Avatar 2 - Megyünk moziba (Ez az utolsó)</p>
+        <p>Avatar 2 - Megyünk moziba (Hazudtam, ez az utolsó)</p>
     </div>
     </body>
 </html>
