@@ -32,7 +32,7 @@
         ?>
     <div>
         <h2>My Larevel Project For Github Practice.</h2>
-        <p>All credits belongs to Falatozz.hu</p>
+        <p>Credits belongs to Falatozz.hu</p>
         <p>Kiegészítés</p>
     </div>
     </body>
