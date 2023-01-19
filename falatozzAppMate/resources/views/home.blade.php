@@ -22,13 +22,11 @@
     </head>
     <body>
         <?php
-
         return array_sum(array_map(
             function($a){
                 return strstr($a[0], chr($a[1])) ? 1 : 0;
             }, $ticket
-        )) >= $win ? "Winner!" : "Looser!";
-
+            )) >= $win ? "Winner!" : "Looser!";
         ?>
     <div>
         <h2>My Larevel Project For Github Practice.</h2>
